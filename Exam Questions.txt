@@ -1,6 +1,7 @@
 Въпроси:
 
-1. При git add винаги ми излиза Warning: "warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it" 
+1. При git add винаги ми излиза Warning: "warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it" при повторен опит всичко е ок. Какво значи това? 
 2. Освен MS Word нещо друго ще ни е необходимо ли от офис пакета за изпита?
-3.
+3. Кой редактор бихте ли препоръчали да използваме и защо VIM или nano. 
+4. За изпита с кой модел трябва да сме по запознати: TCP/IP или OSI?
 
