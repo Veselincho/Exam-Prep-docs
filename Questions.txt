@@ -1,0 +1,6 @@
+Въпроси:
+
+1. При git add винаги ми излиза Warning: "warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it" 
+2. Освен MS Word нещо друго ще ни е необходимо ли от офис пакета за изпита?
+3.
+
