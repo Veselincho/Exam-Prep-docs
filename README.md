@@ -1,2 +1,2 @@
 # LET-VAR-JS
-1. tnx to "Hristo Georgiev"
+1. Special thanks to "Hristo Georgiev"
